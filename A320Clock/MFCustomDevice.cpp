@@ -85,7 +85,7 @@ void MFCustomDevice::attach(uint16_t adrPin, uint16_t adrType, uint16_t adrConfi
         is used to store the type
     ********************************************************************************** */
     getStringFromMem(adrType, parameter, configFromFlash);
-    if (strcmp(parameter, "MOBIFLIGHT_TEMPLATE") == 0)
+    if (strcmp(parameter, "A320Clock Mega") == 0)
         _customType = MY_CUSTOM_DEVICE_1;
     if (strcmp(parameter, "MOBIFLIGHT_TEMPLATE2") == 0)
         _customType = MY_CUSTOM_DEVICE_2;

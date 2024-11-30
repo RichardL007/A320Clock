@@ -1,10 +1,10 @@
 {
     "$schema": "./mfdevice.schema.json",
     "Info": {
-      "Label": "Mobiflight's template",
-      "Type": "MOBIFLIGHT_TEMPLATE",
-      "Author": "Mobiflight",
-      "URL": "https://github.com",
+      "Label": "A320Clock",
+      "Type": "A320Clock Mega",
+      "Author": "Richard L",
+      "URL": "https://github.com/RichardL007/A320Clock",
       "Version" : "1.0.0"
     },
     "Config": {

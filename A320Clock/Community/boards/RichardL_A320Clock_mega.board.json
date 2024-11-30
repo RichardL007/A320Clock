@@ -38,18 +38,18 @@
       "FirmwareBaseName": "mobiflight_template_mega",
       "FirmwareExtension": "hex",
       "LatestFirmwareVersion": "0.0.1",
-      "FriendlyName": "Mobiflight Template Mega",
-      "MobiFlightType": "Mobiflight Template Mega",
+      "FriendlyName": "RichardL A320Clock Mega",
+      "MobiFlightType": "A320Clock Mega",
       "ResetFirmwareFile": "reset.arduino_mega_1_0_2.hex",
       "CustomDeviceTypes": [
-        "MOBIFLIGHT_TEMPLATE",
+        "A320Clock Mega",
         "MOBIFLIGHT_TEMPLATE2"
       ],
       "Community": {
-        "Project": "Your Project",
-        "Website": "https://YourWebsite.com",
-        "Docs": "https://YourWebsite.com",
-        "Support": "https://YourWebsite.com"
+        "Project": "A320Clock",
+        "Website": "https://github.com/RichardL007/A320Clock",
+        "Docs": "https://github.com/RichardL007/A320Clock",
+        "Support": "https://github.com/RichardL007/A320Clock"
       }
     },
     "ModuleLimits": {
