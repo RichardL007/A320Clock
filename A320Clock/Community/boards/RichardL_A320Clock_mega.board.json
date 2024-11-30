@@ -35,7 +35,7 @@
       "CanInstallFirmware": true,
       "CanResetBoard": true,
       "DelayAfterFirmwareUpdate": 0,
-      "FirmwareBaseName": "mobiflight_template_mega",
+      "FirmwareBaseName": "richardl_a320clock_mega",
       "FirmwareExtension": "hex",
       "LatestFirmwareVersion": "0.0.1",
       "FriendlyName": "RichardL A320Clock Mega",
